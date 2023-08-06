@@ -9611,12 +9611,12 @@ static void Cmd_pickup(void)
                 {
                     if (sPickupProbabilities[j] > rand)
                     {
-                        SetMonData(&gPlayerParty[i], MON_DATA_HELD_ITEM, &sPickupItems[lvlDivBy10 + j]);
+                        AddBagItem(sPickupItems[lvlDivBy10 + j], 1);
                         break;
                     }
                     else if (rand == 99 || rand == 98)
                     {
-                        SetMonData(&gPlayerParty[i], MON_DATA_HELD_ITEM, &sRarePickupItems[lvlDivBy10 + (99 - rand)]);
+                        AddBagItem(sRarePickupItems[lvlDivBy10 + (99 - rand)], 1);
                         break;
                     }
                 }
