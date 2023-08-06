@@ -17,3 +17,4 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 - L/R on stats page swap between stats and IVs
 - Reusable TMs (can't be sold)
 - Hidden Power shows type
+- Pickup sends items directly to bag
