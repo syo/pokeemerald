@@ -16,3 +16,4 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 - Any Pokemon can use HMs in field once obtained
 - L/R on stats page swap between stats and IVs
 - Reusable TMs (can't be sold)
+- Hidden Power shows type
