@@ -29,3 +29,4 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 - Rare candies/medicine can be used repeatedly without kicking to bag
 - Instant national dex
 - Move relearner from party menu
+- Less dialogue for berry picking/planting/farming
