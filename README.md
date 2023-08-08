@@ -25,3 +25,4 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 - Press R while on a bike to swap to the other (mach vs acro)
 - Increased text speed for all speeds
 - Faster pokecenter healing 
+- Forget HM moves whenever
