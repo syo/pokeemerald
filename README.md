@@ -22,3 +22,4 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 - Run is now toggle on/off rather than holding B
 - Can run indoors etc
 - Fish no longer get away, no more multiround minigame
+- Press R while on a bike to swap to the other (mach vs acro)
