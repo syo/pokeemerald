@@ -21,3 +21,4 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 - Trade evos now evolve by level-up/item use
 - Run is now toggle on/off rather than holding B
 - Can run indoors etc
+- Fish no longer get away, no more multiround minigame
