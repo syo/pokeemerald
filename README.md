@@ -27,3 +27,4 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 - Faster pokecenter healing 
 - Forget HM moves whenever
 - Rare candies/medicine can be used repeatedly without kicking to bag
+- Instant national dex
