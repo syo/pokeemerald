@@ -18,3 +18,6 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 - Reusable TMs (can't be sold)
 - Hidden Power shows type
 - Pickup sends items directly to bag
+- Trade evos now evolve by level-up/item use
+- Run is now toggle on/off rather than holding B
+- Can run indoors etc
